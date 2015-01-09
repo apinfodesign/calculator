@@ -1,0 +1,25 @@
+{
+  "name": "mycalc",
+  "version": "1.0.0",
+  "description": "exercise",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apinfodesign/calculator.git"
+  },
+  "author": "mh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apinfodesign/calculator/issues"
+  },
+  "homepage": "https://github.com/apinfodesign/calculator",
+  "dependencies": {
+    "calculator": "^0.1.12",
+    "commander": "^2.6.0",
+    "hubot-calculator": "^0.4.0",
+    "jasmine": "^2.1.1"
+  }
+}
